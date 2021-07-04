@@ -1,5 +1,5 @@
 # vowels-consonants
-Separating vowels and consonants using Java, and do-while for looping.
+Separating vowels and consonants using Java.
 
 <br>
 
