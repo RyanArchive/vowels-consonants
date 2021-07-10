@@ -18,4 +18,4 @@ Separating vowels and consonants using Java.
 - <a href="https://www.jdoodle.com">JDoodle</a>
 
 #### Using Command Prompt (Alternative)
-- <a href="https://github.com/rynrsts/guess-a-number/blob/main/command-prompt.md">Compiling and Executing using Command Prompt</a>
+- <a href="https://github.com/rynrsts/vowels-consonants/blob/main/command-prompt.md">Compiling and Executing using Command Prompt</a>
