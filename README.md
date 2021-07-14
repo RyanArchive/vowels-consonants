@@ -4,7 +4,9 @@ Separating vowels and consonants using Java.
 
 <br>
 
-## Note
+## Additional Context
+
+### Note
 
 - Enter one word only
 - For Repeat Again, lower and upper case is accepted (y/Y and n/N)
